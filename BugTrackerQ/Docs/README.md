@@ -1,0 +1,1 @@
+﻿3 | BugTrackerQ | ASP.NET Web Application (.NET Framework) | Web App | .NET Framework 4.7.2 | Class library | Example case: Guías Mineras Digitales
